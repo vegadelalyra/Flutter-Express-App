@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_client
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Flutter-Express-App
+A full stack mobile app running Express on API, Flutter on client app, MongoDB for persistent data. THIS IS THE APP.
+>>>>>>> 3941c319c8c7ee08f3264e4916ac68934fbdaaff
