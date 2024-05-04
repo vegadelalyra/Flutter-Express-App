@@ -1,3 +1,9 @@
+<<<<<<<<< Temporary merge branch 1
+
+# Flutter-Express-App
+
+# A full stack mobile app running Express on API, Flutter on client app, MongoDB for persistent data. THIS IS THE APP.
+
 # flutter_client
 
 A new Flutter project.
@@ -15,6 +21,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# Flutter-Express-App
-
-A full stack mobile app running Express on API, Flutter on client app, MongoDB for persistent data. THIS IS THE APP.
+> > > > > > > > > Temporary merge branch 2
