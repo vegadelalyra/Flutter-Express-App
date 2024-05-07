@@ -27,7 +27,7 @@ class _CreateDataState extends State<CreateData> {
               ),
               TextField(
                 controller: priceController,
-                decoration: const InputDecoration(hintText: 'Name here'),
+                decoration: const InputDecoration(hintText: 'Price here'),
               ),
               TextField(
                 controller: descController,
